@@ -15,7 +15,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone (ваш URL)
+git clone https://github.com/xenxen25/poitical-parties-parser
 cd poitical-parties-parser
 ```
 
@@ -71,5 +71,6 @@ python parse_parties.py
 - **Доступ к интернету** (для загрузки данных с сайта)
 - **1 ГБ** свободного места на диске
 - **Разрешение на сетевые подключения**
+
 
 
